@@ -1,3 +1,3 @@
-struct SR_13072 {
-    var text = "Hello, World!"
+public struct SR_13072 {
+    public static let text = "Hello, SR_13072!"
 }
